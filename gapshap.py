@@ -114,7 +114,7 @@ def main():
         st.subheader("Dataset:")
 
         st.write("""
-        The dataset used in this project is a collection of labelled intents and entities. The data is stored in a list.
+        The dataset used in this project is a collection of labelled intents and entities.  The data is stored in a list.
         - Intents: The intent of the user input (e.g. "greeting", "budget", "about")
         - Entities: The entities extracted from user input (e.g. "Hi", "How do I create a budget?", "What is your purpose?")
         - Text: The user input text.
